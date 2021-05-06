@@ -762,7 +762,7 @@ MonoBehaviour:
   textFile: {fileID: 4900000, guid: 8f17f8652b438324697be9134e782596, type: 3}
   textSpeed: 0.02
   continueButton: {fileID: 1423141446}
-  nextSceneButton: {fileID: 0}
+  nextSceneButton: {fileID: 634882716}
 --- !u!4 &1148488903
 Transform:
   m_ObjectHideFlags: 0
